@@ -8,4 +8,5 @@ From Kaggle’s recently published European Soccer Database, I used top 6 Europe
 Use Entropy to Measure Predictability
 
 Based on Information Theory, Shannon’s Entropy(H) can be used to measure the uncertainty of an event’s outcome. 
+![a](https://cloud.githubusercontent.com/assets/19711543/23177947/c8bc05cc-f890-11e6-91fb-9b74e8cb691d.png)
 
